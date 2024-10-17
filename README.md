@@ -7,7 +7,7 @@ Data visualization projects: Create interactive and visually appealing dashboard
 Data storytelling projects: Collaborate on creating compelling data narratives and presentations.
 - 📫 How to reach me sgant1@appdev.yearup.org
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I am a mother of an Autastic daughter who enjoys reading. Currently dedicated to starting a non for profit for nuerodivergent minoorites. 
+- ⚡ Fun fact: I am a mother of an Autastic daughter. I enjoy reading, cooking, & over thinking. I am Currently dedicated to starting a non for profit for nuerodivergent minorites!
 
 <!---
 SymoneG96/SymoneG96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
